@@ -129,11 +129,11 @@ How could we use that to get all the elements?
 ```
 days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 ```
-How would I display the number of days in March?
-- days[3]
-- days[2]
-- days[4]
-- days['March']
+  How would I display the number of days in March?
+  - days[3]
+  - days[2]
+  - days[4]
+  - days['March']
 1. What is a flaw with this code to remove all the "4" values from a list?
 ```
 nums = [1, 3, 5, 4, 7, 8, 4, 4, 9, 1, 12]
