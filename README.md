@@ -1,4 +1,4 @@
-# Lecture 6 - CYBR 2980
+# Lecture 6 - CIST 1600
 ## Objectives:
 Define and use:
 - Lists, tuples, and dictionaries
