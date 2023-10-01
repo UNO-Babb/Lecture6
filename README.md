@@ -129,11 +129,11 @@ How could we use that to get all the elements?
 ```
 days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 ```
-  How would I display the number of days in March?
+  How would I display the number of days in February?
   - days[3]
   - days[2]
-  - days[4]
-  - days['March']
+  - days[1]
+  - days['Feb']
 1. What is a flaw with this code to remove all the "4" values from a list?
 ```
 nums = [1, 3, 5, 4, 7, 8, 4, 4, 9, 1, 12]
@@ -153,8 +153,8 @@ while spot < len(nums):
 ```
 days = {'Jan' : 31, 'Feb' : 28, 'Mar' : 31, 'Apr' : 30, 'May' : 31, 'Jun' : 30, 'Jul' : 31, 'Aug' : 31, 'Sep' : 30, 'Oct' : 31, 'Nov' : 30, 'Dec' : 31}
 ```
-How would in display the number of days in June?
-- days[6]
-- days[5]
-- days['June']
-- days['Jun']
+How would in display the number of days in February?
+- days[2]
+- days[1]
+- days['Feb']
+- days[28]
